@@ -1,7 +1,5 @@
 # Ecommerce Realtime Com AdonisJS, Node.JS e MySQL
 
-Esta aplicação está em desenvolvimento, caso tenha interesse em saber como ela foi criada acesse: [https://www.udemy.com/e-commerce-em-tempo-real-com-nodejs-adonis-e-websocket/](https://www.udemy.com/e-commerce-em-tempo-real-com-nodejs-adonis-e-websocket/)
-
 ## Pacotes inclusos
 
 1. Bodyparser
